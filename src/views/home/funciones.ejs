@@ -1,0 +1,10 @@
+<% productos.map(producto => { %> 
+    <article>
+      <div class="imageProduct">
+       <img src="/images/<%= producto.image %> " alt="Imagen del Producto">
+       <h4> <%= producto.name %> </h4>
+      </div>
+      <p> <%= producto.descripcion %> </p>
+      <button>ver más</button>
+    </article>
+ <% }) %> 

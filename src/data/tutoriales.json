@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Reparacion de PC",
+        "image": "aside-01.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Hackeo a full",
+        "image": "aside-02.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Recuperacion de datos",
+        "image": "aside-03.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Recuperacion de Contraseñas",
+        "image": "aside-04.jpg"
+    }
+]
